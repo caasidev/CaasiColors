@@ -58,6 +58,9 @@ Thisc color scheme tries to prioritize not only aesthetic appeal but also functi
 ## Roadmap
 
 - [ ] Terminal emulators
+  - [x] Alacritty
+  - [x] Kitty
+- [ ] COSMIC desktop
 - [ ] VSCode theme
 - [ ] Zed Editor theme
 - [ ] Neovim theme

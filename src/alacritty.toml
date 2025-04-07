@@ -1,0 +1,32 @@
+# Copyright (c) 2025 Jakub Gawlik | caasi.dev
+# Source: https://github.com/caasidev/CaasiColors
+# Licensed under MIT License
+
+[colors.primary]
+# dark
+background = "#1b1a1f"
+foreground = "#898598"
+
+# bright
+# background = "#f1e1b6"
+# foreground = "#1b1a1f"
+
+[colors.normal]
+black = "#423852"
+red = "#d16161"
+green = "#4b7e4c"
+yellow = "#a89d59"
+blue = "#7ea0bf"
+magenta = "#c36fa1"
+cyan = "#417572"
+white = "#898598"
+
+[colors.bright]
+black = "#423e4d"
+red = "#c36f6f"
+green = "#78bc78"
+yellow = "#a19860"
+blue = "#94a5b2"
+magenta = "#c276a5"
+cyan = "#679793"
+white = "#a49fad"

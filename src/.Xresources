@@ -1,0 +1,36 @@
+! CaasiColors - X resources configuration
+
+! Special colors
+*.background:   #1b1a1f
+
+! Black colors
+*.color0:       #423852
+*.color8:       #423e4d
+
+! Red colors
+*.color1:       #d16161
+*.color9:       #c36f6f
+
+! Green colors
+*.color2:       #4b7e4c
+*.color10:      #78bc78
+
+! Yellow colors
+*.color3:       #a89d59
+*.color11:      #a19860
+
+! Blue colors
+*.color4:       #7ea0bf
+*.color12:      #94a5b2
+
+! Magenta colors
+*.color5:       #c36fa1
+*.color13:      #c276a5
+
+! Cyan colors
+*.color6:       #417572
+*.color14:      #679793
+
+! White colors
+*.color7:       #1b1a1f
+*.color15:      #a49fad

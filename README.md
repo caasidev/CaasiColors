@@ -45,7 +45,7 @@ Thisc color scheme tries to prioritize not only aesthetic appeal but also functi
 | Color4 Blue            | `#7ea0bf` | `126, 160, 191` |
 | Color5 Magenta         | `#c36fa1` | `195, 111, 161` |
 | Color6 Cyan            | `#417572` | `65, 117, 114`  |
-| Color7 White           | `#1b1a1f` | `27, 26, 31`    |
+| Color7 White           | `#898598` | `137, 133, 152` |
 | Color8 Bright Black    | `#423e4d` | `66, 62, 77`    |
 | Color9 Bright Red      | `#c36f6f` | `195, 111, 111` |
 | Color10 Bright Green   | `#78bc78` | `120, 188, 120` |

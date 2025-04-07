@@ -57,9 +57,14 @@ Thisc color scheme tries to prioritize not only aesthetic appeal but also functi
 
 ## Roadmap
 
-- [ ] Terminal emulators
-  - [x] Alacritty
-  - [x] Kitty
+- [x] [.Xresources](https://raw.githubusercontent.com/caasidev/CaasiColors/refs/heads/main/src/.Xresources)
+- [x] [CSS](https://raw.githubusercontent.com/caasidev/CaasiColors/refs/heads/main/src/caasicolors.css)
+- [-] Terminal emulators
+  - [x] [Alacritty](https://raw.githubusercontent.com/caasidev/CaasiColors/refs/heads/main/src/alacritty.toml)
+  - [ ] Gnome terminal
+  - [x] [Kitty](https://raw.githubusercontent.com/caasidev/CaasiColors/refs/heads/main/src/kitty.conf)
+  - [ ] Konsole terminal
+  - [ ] XFCE terminal
 - [ ] COSMIC desktop
 - [ ] VSCode theme
 - [ ] Zed Editor theme

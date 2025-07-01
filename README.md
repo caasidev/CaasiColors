@@ -73,7 +73,7 @@ Thisc color scheme tries to prioritize not only aesthetic appeal but also functi
 - [ ] Tailwind color theme
 - [ ] ...
 
-### Windows Terminal
+## Windows Terminal
 
 1. Copy the JSON from `src/caasi-windows-terminal.json`.  
 2. Open Windows Terminal Settings → **Color schemes** → **Add new**.  

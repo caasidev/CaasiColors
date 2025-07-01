@@ -1,0 +1,23 @@
+{
+  "name": "Caasi Dark",
+  "cursorColor": "#A49FAD",
+  "selectionBackground": "#636363",
+  "background": "#1B1A1F",
+  "foreground": "#A49FAD",
+  "black": "#423852",
+  "blue": "#7EA0BF",
+  "cyan": "#417572",
+  "green": "#4B7E4C",
+  "purple": "#C36FA1",
+  "red": "#D16161",
+  "white": "#898598",
+  "yellow": "#A89D59",
+  "brightBlack": "#423E4D",
+  "brightBlue": "#94A5B2",
+  "brightCyan": "#679793",
+  "brightGreen": "#78BC78",
+  "brightPurple": "#C276A5",
+  "brightRed": "#C36F6F",
+  "brightWhite": "#A49FAD",
+  "brightYellow": "#A19860"
+}

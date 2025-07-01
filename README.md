@@ -65,12 +65,21 @@ Thisc color scheme tries to prioritize not only aesthetic appeal but also functi
   - [x] [Kitty](https://raw.githubusercontent.com/caasidev/CaasiColors/refs/heads/main/src/kitty.conf)
   - [ ] Konsole terminal
   - [ ] XFCE terminal
+  - [x] Windows Terminal
 - [ ] COSMIC desktop
 - [ ] VSCode theme
 - [ ] Zed Editor theme
 - [ ] Neovim theme
 - [ ] Tailwind color theme
 - [ ] ...
+
+### Windows Terminal
+
+1. Copy the JSON from `src/caasi-windows-terminal.json`.  
+2. Open Windows Terminal Settings → **Color schemes** → **Add new**.  
+3. Paste the JSON and click **Save**.  
+4. Go to your profile (e.g. PowerShell) and choose **Caasi Dark** from the **Color scheme** dropdown.  
+
 
 <div align="center">
 Copyright &copy; 2025 <a href="https://caasi.dev" target="_blank">Jakub Gawlik | caasi.dev</a>

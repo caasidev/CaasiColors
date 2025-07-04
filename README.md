@@ -76,9 +76,9 @@ Thisc color scheme tries to prioritize not only aesthetic appeal but also functi
 ## Windows Terminal
 
 1. Copy the JSON from `src/caasi-windows-terminal.json`.  
-2. Open Windows Terminal Settings → **Color schemes** → **Add new**.  
-3. Paste the JSON and click **Save**.  
-4. Go to your profile (e.g. PowerShell) and choose **Caasi Dark** from the **Color scheme** dropdown.  
+2. Open Windows Terminal Settings → **Open JSON File** (Bottom left of terminal window).
+3. Find the "schemes" section and paste the JSON and save the file.
+4. Go back to settings  → **Colour Schemes** and choose **Caasi Dark** from the list and choose **Set as default**
 
 
 <div align="center">
